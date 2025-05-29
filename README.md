@@ -48,7 +48,8 @@ I'm currently a Software Engineering student of University Federal of Pampa (Uni
 
 - ❓**eXplanaible Artificial Inteligence (XAI)**
 - 🌐**Internet of Things (IoT)**
-- 🛡️ **Cybersecurity** 
+- 🛡️ **Cybersecurity**
+- 🤖 **Large Language Models (LLM's)**
 
 ## My Github Stats
 
