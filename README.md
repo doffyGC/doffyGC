@@ -54,4 +54,4 @@ I'm currently a Software Engineering student of University Federal of Pampa (Uni
 ## My Github Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=doffyGC)
-![My Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doffyGC&layout=donut)
+![My Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doffyGC&layout=compact&bg_color=0,73FA79,FFFFF,7881FF&theme=graywhite&langs_count=10&exclude_repo=kasweb)
