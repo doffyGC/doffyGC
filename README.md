@@ -21,7 +21,8 @@ I'm currently a Software Engineering student of University Federal of Pampa (Uni
 ### 💾 DBMS 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![PostgresSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![FirestoreDB](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![FirestoreDB](https://img.shields.io/badge/Firebase-FC6D26?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongodb-25A162?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔀 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
@@ -42,14 +43,14 @@ I'm currently a Software Engineering student of University Federal of Pampa (Uni
 ### 📐 Other technologies 
 ![Figma](https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma&logoColor=white&labelColor=purple)
 ![Postman](https://img.shields.io/badge/Postman-Api_Plataform-red?style=for-the-badge&logo=Postman&logoColor=white&labelColor=orange)
-![SHAP](https://img.shields.io/badge/SHAP-XAI_Plataform-red?style=for-the-badge&labelColor=green)
+![SHAP](https://img.shields.io/badge/SHAP-XAI_Library-red?style=for-the-badge&labelColor=green)
 
 ## My Research Topics
 
 - ❓**eXplanaible Artificial Inteligence (XAI)**
 - 🌐**Internet of Things (IoT)**
 - 🛡️ **Cybersecurity**
-- 🤖 **Large Language Models (LLM's)**
+- 🤖 **Agentic AI**
 
 ## My Github Stats
 
