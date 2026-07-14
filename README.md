@@ -53,6 +53,28 @@ I'm currently a Software Engineering student of University Federal of Pampa (Uni
 - 🛡️ **Cybersecurity**
 - 🤖 **Agentic AI**
 
+## 🏆 Projects:
+
+⭐⭐ **UniBot - Pampa Live Messenger**
+
+Developed for the Intelligent Software Engineering Project Lab course. An institutional conversational assistant for Unipampa (Federal University of Pampa), inspired by Windows Live Messenger, that turns courses, departments and services into chat contacts. An orchestrator combines QuickFacts, RAG with an LLM, user memory and external fallback to make it easier to search lengthy institutional documents such as course plans, resolutions and regulations. Backend built with Python, FastAPI, Agno and ChromaDB; frontend with React and Vite. It can be accessed at the [GitHub Repository](https://github.com/doffyGC/UniBot).
+
+⭐⭐ **Demeter - Heavy Machinery Rental Marketplace**
+
+Developed for the Problem Solving IV chair, focused on applying software design patterns. A marketplace for negotiating and renting heavy machinery, where ads go through a full negotiation workflow (requested, under evaluation, negotiating, in operation, finished) modeled with the State pattern, alongside Builder and Decorator patterns for ad creation and notifications. Includes chat, reviews and notifications between renters and machine owners, with a Node.js/Express/Firebase backend and a SvelteKit frontend. It can be accessed at the [GitHub Repository](https://github.com/demeter-project-unipampa/renter-api).
+
+⭐⭐⭐ **ERENO AI - Adversarial IDS Lab for Smart Grids**
+
+Research project developed as part of an Information Security course assignment, contributing to the ERENO AI framework, an agentic AI architecture built on top of ERENO, a synthetic IEC-61850/GOOSE traffic generator for smart grids. Implements an adversarial Red Team × Blue Team loop, where a Strategist agent proposes parametrized attacks while an Analyst agent explains which traffic features evaded the intrusion detection system (IDS) and recommends mitigations, combining Explainable AI, Agentic AI and Cybersecurity. It can be accessed at the [GitHub Repository](https://github.com/sequincozes/ereno-ai).
+
+⭐⭐⭐ **PET-Saúde Tech IV - Health Department Communication System**
+
+Developed as part of the PET-Saúde group, in partnership with the Health Department of Jaguari. A communication platform built with React and the GovBR-DS design system to make it easier for the department to reach the local population with health information and services, developed collaboratively by a team of scholarship students. It can be accessed at the [GitHub Repository](https://github.com/PET-Saude-Tech-IV/pet-saude-tech-iv).
+
+⭐⭐⭐ **Scavenger Project - School Gymkhana Management System**
+
+A full-stack platform for managing school gymkhana events, built with React on the frontend and Node.js/Express on the backend, connected to MongoDB Atlas. Handles team registration, authentication, feedback and notifications for participants. It can be accessed at the [GitHub Repository](https://github.com/ScavengerProject/ScavengerProject-repo).
+
 ## My Github Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=doffyGC)
