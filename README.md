@@ -1,81 +1,87 @@
-# 👋 Hi, I’m Guilherme
-
+# 👋 Hi, I'm Guilherme
+ 
 ## Who Am I?
-I'm currently a Software Engineering student of University Federal of Pampa (Unipampa) with knowledge in Python, Java and Javascript aplications.
-
-## 💻 Tech Knowledge
-### 🎨 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-
-### ⚙ Backend Technologies
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+I'm a Software Engineering student at the Federal University of Pampa (Unipampa), building full-stack web systems and applied AI (RAG pipelines, LLM agents and explainable machine learning). I also do research on cybersecurity for smart grids.
+ 
+## 💻 Tech Stack
+ 
+### 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 💾 DBMS 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![PostgresSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![FirestoreDB](https://img.shields.io/badge/Firebase-FC6D26?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongodb-25A162?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔀 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
-
-### 🔧 DevOps
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
-![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=fff)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)
-
-### 🧪 Testing Frameworks
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=Cypress&logoColor=white)
-
-### 📐 Other technologies 
-![Figma](https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma&logoColor=white&labelColor=purple)
-![Postman](https://img.shields.io/badge/Postman-Api_Plataform-red?style=for-the-badge&logo=Postman&logoColor=white&labelColor=orange)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-XAI_Library-red?style=for-the-badge&labelColor=green)
-
-## My Research Topics
-
-- ❓**eXplanaible Artificial Inteligence (XAI)**
-- 🌐**Internet of Things (IoT)**
-- 🛡️ **Cybersecurity**
+![Agno](https://img.shields.io/badge/Agno-LLM_Agents-black?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=for-the-badge)
+ 
+### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+### 💾 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+ 
+### 🔧 DevOps & Testing
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+## 🔬 Research Interests
+ 
+- ❓ **Explainable Artificial Intelligence (XAI)**
 - 🤖 **Agentic AI**
-
-## 🏆 Projects:
-
-⭐⭐ **UniBot - Pampa Live Messenger**
-
-Developed for the Intelligent Software Engineering Project Lab course. An institutional conversational assistant for Unipampa (Federal University of Pampa), inspired by Windows Live Messenger, that turns courses, departments and services into chat contacts. An orchestrator combines QuickFacts, RAG with an LLM, user memory and external fallback to make it easier to search lengthy institutional documents such as course plans, resolutions and regulations. Backend built with Python, FastAPI, Agno and ChromaDB; frontend with React and Vite. It can be accessed at the [GitHub Repository](https://github.com/doffyGC/UniBot).
-
-⭐⭐ **Demeter - Heavy Machinery Rental Marketplace**
-
-Developed for the Problem Solving IV chair, focused on applying software design patterns. A marketplace for negotiating and renting heavy machinery, where ads go through a full negotiation workflow (requested, under evaluation, negotiating, in operation, finished) modeled with the State pattern, alongside Builder and Decorator patterns for ad creation and notifications. Includes chat, reviews and notifications between renters and machine owners, with a Node.js/Express/Firebase backend and a SvelteKit frontend. It can be accessed at the [GitHub Repository](https://github.com/demeter-project-unipampa/renter-api).
-
-⭐⭐⭐ **ERENO AI - Adversarial IDS Lab for Smart Grids**
-
-Research project developed as part of an Information Security course assignment, contributing to the ERENO AI framework, an agentic AI architecture built on top of ERENO, a synthetic IEC-61850/GOOSE traffic generator for smart grids. Implements an adversarial Red Team × Blue Team loop, where a Strategist agent proposes parametrized attacks while an Analyst agent explains which traffic features evaded the intrusion detection system (IDS) and recommends mitigations, combining Explainable AI, Agentic AI and Cybersecurity. It can be accessed at the [GitHub Repository](https://github.com/sequincozes/ereno-ai).
-
-⭐⭐⭐ **PET-Saúde Tech IV - Health Department Communication System**
-
-Developed as part of the PET-Saúde group, in partnership with the Health Department of Jaguari. A communication platform built with React and the GovBR-DS design system to make it easier for the department to reach the local population with health information and services, developed collaboratively by a team of scholarship students. It can be accessed at the [GitHub Repository](https://github.com/PET-Saude-Tech-IV/pet-saude-tech-iv).
-
-⭐⭐⭐ **Scavenger Project - School Gymkhana Management System**
-
-A full-stack platform for managing school gymkhana events, built with React on the frontend and Node.js/Express on the backend, connected to MongoDB Atlas. Handles team registration, authentication, feedback and notifications for participants. It can be accessed at the [GitHub Repository](https://github.com/ScavengerProject/ScavengerProject-repo).
-
-## My Github Stats
-
+- 🛡️ **Cybersecurity**
+- 🌐 **Internet of Things (IoT)**
+## 🏆 Projects
+ 
+### 🤖 AI & Research
+ 
+⭐⭐⭐ **ERENO AI — Adversarial IDS Lab for Smart Grids**
+Agentic AI architecture built on top of ERENO, a synthetic IEC 61850/GOOSE traffic generator. A Red Team × Blue Team loop where a Strategist agent proposes parameterized attacks, the IDS is retrained, and an Analyst agent uses XAI to explain which features evaded the detector. [Repository](https://github.com/sequincozes/ereno-ai)
+ 
+⭐⭐⭐ **ERENO & ERENO 2.0 — Smart Grid Traffic Generator**
+Implemented benign network degradation mechanisms and new dataset metadata columns in ERENO (Java), and built the first version of the ERENO 2.0 front-end for configuring attacks, IEDs and GOOSE flows, with Firebase persistence and deployment.
+ 
+⭐⭐⭐ **Gray-GOOSE — Explainable ML Evaluation on IEC 61850**
+Reproducible pipeline that trains and evaluates machine learning models against grayhole DoS attacks on GOOSE traffic, with SHAP explanations comparing runs with and without delta features. Fully packaged in Docker, so the experiment runs with a single command. [Repository](https://github.com/doffyGC/explicability-GOOSE-research)
+ 
+⭐⭐ **UniBot — Pampa Live Messenger**
+Institutional conversational assistant for Unipampa, inspired by Windows Live Messenger, where courses, departments and services become chat contacts. An orchestrator combines quick facts, hybrid-retrieval RAG over ChromaDB, conversation memory and an external search fallback. Python, FastAPI, Agno, React and Vite, with 39 Pytest tests. [Repository](https://github.com/doffyGC/UniBot)
+ 
+⭐⭐ **The Science Behind the Hit — Music Analytics Dashboard**
+Bronze/silver/gold data pipeline over 2,000 Spotify tracks (2000–2019), answering what characterizes a hit in a heavily imbalanced dataset, with findings shown in a multipage Streamlit dashboard running via Docker Compose.
+ 
+### 🌐 Full-Stack
+ 
+⭐⭐⭐ **Scavenger Project — School Gymkhana Management System**
+Full-stack platform deployed in a real school: teams, challenges, penalties, feedback and notifications, with JWT-protected routes and a transactional email queue (BullMQ + Redis). Migrated to a multi-tenant architecture. React, Node.js/Express and MongoDB Atlas. [Repository](https://github.com/ScavengerProject/ScavengerProject-repo)
+ 
+⭐⭐⭐ **PET-Saúde Tech IV — Health Department Communication System**
+Platform for the Health Department of Jaguari (RS) to reach citizens about child and pregnancy vaccination, patient transport and exams. React, NestJS, PostgreSQL, Docker and the GovBR-DS design system. [Repository](https://github.com/PET-Saude-Tech-IV/pet-saude-tech-iv)
+ 
+⭐⭐ **Demeter — Heavy Machinery Rental Marketplace**
+Marketplace with a full negotiation workflow modeled with the State pattern, plus Builder and Decorator for ad creation and notifications. Chat, reviews and notifications. Node.js/Express/Firebase backend and SvelteKit frontend. [Repository](https://github.com/demeter-project-unipampa/renter-api)
+ 
+## 📊 GitHub Stats
+ 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=doffyGC)
-![My Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doffyGC&layout=compact&bg_color=0,73FA79,FFFFF,7881FF&theme=graywhite&langs_count=10&exclude_repo=kasweb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doffyGC&layout=compact&langs_count=10&exclude_repo=kasweb)
+ 
